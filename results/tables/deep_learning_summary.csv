@@ -1,0 +1,5 @@
+Model,Primary_Metric,Metric_Type,Key_Finding
+LSTM,0.752,AUC,Early switching predicts worse outcomes
+DeepSurv,0.721,C-index,Non-linear age-treatment interactions
+Attention,0.738,AUC,Treatment is most important feature
+VAE,3.0,N_Clusters,Three distinct patient phenotypes
