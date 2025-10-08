@@ -143,23 +143,11 @@ Our analysis reveals several important patterns in treatment response:
 
 ## 📝 Citation
 
-If you use this work in your research, please cite:
+This research analyzes optimal chemotherapy sequencing in Stage IV colorectal cancer using the MSK-CHORD dataset.
 
-```bibtex
-@article{agarwal2025chromaseq,
-  title={Optimal Sequencing of FOLFOX versus FOLFIRI in Stage IV Colorectal Cancer: 
-         A Comprehensive Analysis Using Real-World Data and Deep Learning Approaches},
-  author={Agarwal, Abhinav and Nguyen, Casey},
-  journal={Nature Medicine},
-  year={2025},
-  note={Manuscript in preparation}
-}
-```
+## 👥 Contributors
 
-## 👥 Authors
-
-- **Abhinav Agarwal** - Stanford University - [GitHub](https://github.com/abhinav30219)
-- **Casey Nguyen** - KOS AI, Stanford Research Park
+This project was developed as part of colorectal cancer research using real-world data and machine learning approaches.
 
 ## 🤝 Contributing
 
@@ -175,17 +163,10 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 - Stanford University Research Computing
 - Patients whose data contributed to this research
 
-## 📧 Contact
-
-For questions or collaborations:
-- Abhinav Agarwal: [email]
-- Casey Nguyen: [email]
-
 ## 🔗 Links
 
-- [Paper (arXiv)](https://arxiv.org)
-- [MSK-CHORD Dataset](https://www.mskcc.org)
-- [Interactive Dashboard](https://chromaseq-crc.herokuapp.com) *(Coming Soon)*
+- [MSK-CHORD Dataset](https://www.cbioportal.org/study/summary?id=msk_chord_2024)
+- [Memorial Sloan Kettering Cancer Center](https://www.mskcc.org)
 
 ---
 
