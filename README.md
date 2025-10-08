@@ -145,17 +145,6 @@ Our analysis reveals several important patterns in treatment response:
 
 This research analyzes optimal chemotherapy sequencing in Stage IV colorectal cancer using the MSK-CHORD dataset.
 
-## 👥 Contributors
-
-This project was developed as part of colorectal cancer research using real-world data and machine learning approaches.
-
-## 🤝 Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](docs/CONTRIBUTING.md) for details.
-
-## 📜 License
-
-This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
 
 ## 🙏 Acknowledgments
 
